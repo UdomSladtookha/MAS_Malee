@@ -1,6 +1,6 @@
 {
     "type": "fwMas-esp32",
-    "version": 2,
+    "version": 3,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/UdomSladtookha/MAS_Malee/fwMAS.bin"
